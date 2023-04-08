@@ -1,2 +1,1 @@
-# NotepadPlus-PluginTutorial
-<h1>e</h1>
+# How to make a NotepadPlus Plugin
