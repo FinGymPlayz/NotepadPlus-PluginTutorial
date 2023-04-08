@@ -1,3 +1,4 @@
 # How to make a NotepadPlus Plugin
 
-# e
+<u>Before you make a plugin, you need to know the followin:</u>
+
