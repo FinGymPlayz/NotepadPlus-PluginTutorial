@@ -66,8 +66,8 @@ There are many functions and classes you can use in notepadplus, if you are usin
 <br>
 `Code Runner`
 <br>
-There is too much to go over, so i may post a video, or make another repository about it!<br>
-But i will go over that the `npp.main()` code block will run notepadplus!
+# LEARN HOW TO CODE IN THE NOTEPADPLUS MODULE!
+[Click here to see the documentation](https://github.com/FinGymPlayz/Scripting-Plugins/blob/main/README.md)
 # Testing your plugin
 
 To test your plugin in <a href="https://code.visualstudio.com/download">Visual Studio Code</a>, you first have to install the [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) Extension.<br>
