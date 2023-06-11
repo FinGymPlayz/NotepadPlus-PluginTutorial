@@ -92,6 +92,8 @@ Next, Create a repository and call it something like <i>NotepadPlus-Plugins</i> 
 Afterwards, you need to upload your plugin and get the link, [shown in this video.](https://youtu.be/r8772QHvOXo)<br><br>
 After obtaining the link. You now need to create a json for your plugin by [using the template shown here](http://npnp.lifeserverf.org/json)<br><br>
 Lastly head over to the [upload](http://npnp.lifeserverf.org/upload) website to then get it verified. This process can take up to 2+ days<br>You will then get an email back saying if your plugin has been verified or not. If it has been verified, your developer profile, and plugin will be on the webstore<br>
+<br>
+You can also add images to your plugin, which are only visible on [NotepadPlus Social](http://npnp.lifeserverf.org/social/) which can be seen in the [modifier plugin](http://npnp.lifeserverf.org/plugin?title=modifier&author=FinGymPlayz&desc=A%20simple%20to%20use%20plugin%20to%20customise%20the%20whole%20of%20notepadplus!&link=https://github.com/FinGymPlayz/Notepadplus-Plugins/blob/main/modifier.zip?raw=true)
 
 # What is a developer profile?
 
